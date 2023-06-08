@@ -3,8 +3,8 @@
   "type": "object",
   "$metadata": {
     "uris": {
-      "jsonLdContext": "https://raw.githubusercontent.com/the25thbamm/proof-of-certificate/master/proof-of-certificate.json-ld",
-      "jsonSchema": "https://raw.githubusercontent.com/the25thbamm/proof-of-certificate/master/proof-of-certificate.json"
+      "jsonLdContext": "https://raw.githubusercontent.com/the25thbamm/proof-of-lc/master/proof-of-lc.json-ld",
+      "jsonSchema": "https://raw.githubusercontent.com/the25thbamm/proof-of-lc/master/proof-of-lc.json"
     }
   },
   "required": [

@@ -6,13 +6,13 @@
       "id": "@id",
       "type": "@type",
       "ProofOfLC": {
-        "@id": "https://raw.githubusercontent.com/the25thbamm/proof-of-certificate/master/proof-of-certificate.json-ld#ProofOfLC",
+        "@id": "https://raw.githubusercontent.com/the25thbamm/proof-of-lc/master/proof-of-lc.json-ld#ProofOfLC",
         "@context": {
           "@version": 1.1,
           "@protected": true,
           "id": "@id",
           "type": "@type",
-          "vocab": "https://raw.githubusercontent.com/the25thbamm/proof-of-certificate/master/proof-of-certificate-vocab.md#",
+          "vocab": "https://raw.githubusercontent.com/the25thbamm/proof-of-lc/master/proof-of-lc-vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "association": {
             "@id": "vocab:association",
